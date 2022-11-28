@@ -1,0 +1,8 @@
+.main--image {
+    width: clamp(17.92rem, 40vw, 33.7rem);
+}
+.hand-container-image {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

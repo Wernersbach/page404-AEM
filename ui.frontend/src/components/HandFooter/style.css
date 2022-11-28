@@ -1,0 +1,10 @@
+.hand--footer {
+    font-family: 'Space Mono', monospace;
+    padding-block: 1em;
+    font-size: clamp(.8rem, 3vw, .9rem);
+    text-align: center;
+}
+
+.footer--username {
+    color: #61588f;
+}

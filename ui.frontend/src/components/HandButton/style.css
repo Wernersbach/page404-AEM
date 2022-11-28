@@ -1,0 +1,16 @@
+.hand--button {
+    display: inline-block;
+    margin-top: 4.72em;
+    padding: 2.43em 2.82em;
+    font-size: .875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 0;
+    color: #fff;
+    background-color: #333;
+    box-shadow: 0 0 1em -.4em #333;
+    transition: color .3s ease,
+        background-color .3s ease,
+        transform .3s ease;
+}
