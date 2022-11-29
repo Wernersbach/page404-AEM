@@ -1,4 +1,5 @@
 .hand-main-content {
     max-width: 26ch;
     font-size: clamp(1.125rem, .5rem + 1.7vw, 1.5rem);
+    margin-bottom: 40px;
 }
